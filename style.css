@@ -1,0 +1,33 @@
+header {
+  background-color: grey;
+  color: white;
+}
+
+li {
+  list-style: none;
+}
+
+p {
+  display: inline;
+}
+
+.weather {
+  border: 1px solid;
+  padding: 20px;
+}
+
+.forcast {
+  display: inline-block;
+}
+.card-img-top {
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  width: 78%;
+}
+
+.forcast.mr-3.my-5 {
+  border: 1px solid;
+  text-align: center;
+  padding: 13px 10px;
+  background-color: burlywood;
+}
