@@ -11,4 +11,4 @@ This is a simple web-app that allows you to search for a city and get the curren
 Deployed application link: https://prakritirajbhandari.github.io/Weather-Dashboard
 
 Screenshot:
-![](/images/image1.png)
+![](./images/image1.png)
