@@ -6,7 +6,7 @@ $(document).ready(function() {
 
   $(searchBtn).on("click", function() {
     event.preventDefault();
-    alert("clicked");
+
     $(".weatherDisplay").empty();
     $(".forcastDisplay").empty();
     $(".forcast").empty();
